@@ -1,0 +1,96 @@
+{
+  "manifest_version": 3,
+  "name": "Cozy Christmas Theme",
+  "version": "1.0.0",
+  "description": "A cozy Chrome theme in festive red, warm cream, and soft evergreen.",
+  "icons": {
+    "128": "logo/logo128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [
+        188,
+        86,
+        86
+      ],
+      "frame_inactive": [
+        115,
+        151,
+        106
+      ],
+      "toolbar": [
+        245,
+        232,
+        213
+      ],
+      "tab_text": [
+        52,
+        67,
+        49
+      ],
+      "tab_background_text": [
+        250,
+        243,
+        232
+      ],
+      "bookmark_text": [
+        52,
+        67,
+        49
+      ],
+      "toolbar_text": [
+        52,
+        67,
+        49
+      ],
+      "toolbar_button_icon": [
+        52,
+        67,
+        49
+      ],
+      "omnibox_background": [
+        255,
+        252,
+        247
+      ],
+      "omnibox_text": [
+        52,
+        67,
+        49
+      ],
+      "ntp_background": [
+        251,
+        245,
+        235
+      ],
+      "ntp_text": [
+        52,
+        67,
+        49
+      ],
+      "ntp_link": [
+        52,
+        67,
+        49
+      ],
+      "ntp_header": [
+        52,
+        67,
+        49
+      ],
+      "button_background": [
+        188,
+        86,
+        86
+      ],
+      "tab_background_text_inactive": [
+        52,
+        67,
+        49
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}

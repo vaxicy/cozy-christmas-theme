@@ -1,0 +1,1 @@
+默认输出 D:\迅雷下载\vibe coding\cozy-christmas-theme-1.0.0.zip。只生成一个完整版 ZIP，manifest.json 在 ZIP 根目录。Logo 仅 logo/logo128.png。
